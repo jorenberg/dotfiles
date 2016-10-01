@@ -10,3 +10,8 @@ Everything's built around topic areas. If you're adding a new area to your forke
 
 ## What's inside?
 A lot of stuff. Seriously, a lot of stuff. Check them out in the file browser above and see what components may mesh up with you. [Fork it](https://github.com/iamprabhat/dotfiles/fork), remove what you don't use, and build on what you do use.
+
+### Why would I want my dotfiles on GitHub?
+- <b>Backup, restore, and sync</b> the preferences and settings for your toolbox. Your dotfiles might be the most important files on your machine.
+- <b>Learn</b> from the community. Discover new tools for your toolbox and new tricks for the ones you already use.
+- <b>Share</b> what you've learned with the rest of me.
