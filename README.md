@@ -20,3 +20,11 @@ A lot of stuff. Seriously, a lot of stuff. Check them out in the file browser ab
 There's a few special files in the hierarchy.
 - <b>bin/</b>: Anything in `bin/` will get added to your `$PATH` and be made available everywhere.
 - <b>topic/\*.zsh</b>: Any files ending in `.zsh` get loaded into your environment.
+
+### Install
+To install any topical, please run these commands on your Terminal.
+```{sh}
+$ git clone https://github.com/iamprabhat/dotfiles.git
+$ cd ~/.dotfiles
+$ sh bootstrap.sh
+~~~
