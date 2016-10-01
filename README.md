@@ -27,4 +27,7 @@ To install any topical, please run these commands on your Terminal.
 $ git clone https://github.com/iamprabhat/dotfiles.git
 $ cd ~/.dotfiles
 $ sh bootstrap.sh
-~~~
+```
+
+### Thanks
+I have been in software development since mid-year of 2001. Whenever, I'm writing or doing coding stuff, I have to use many <b>.</b>files for project scafoldings or builds. It's really little boring and time consuming. So, I reallized to don't give weight for them every time - finally rolled up on easy way to do so - dotfiles. A decent amount of the code in these dotfiles stem or are inspired from my original project(s).
