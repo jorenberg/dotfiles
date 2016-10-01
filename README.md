@@ -15,3 +15,8 @@ A lot of stuff. Seriously, a lot of stuff. Check them out in the file browser ab
 - <b>Backup, restore, and sync</b> the preferences and settings for your toolbox. Your dotfiles might be the most important files on your machine.
 - <b>Learn</b> from the community. Discover new tools for your toolbox and new tricks for the ones you already use.
 - <b>Share</b> what you've learned with the rest of me.
+
+### Components
+There's a few special files in the hierarchy.
+- <b>bin/</b>: Anything in `bin/` will get added to your `$PATH` and be made available everywhere.
+- <b>topic/\*.zsh</b>: Any files ending in `.zsh` get loaded into your environment.
