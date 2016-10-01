@@ -7,3 +7,6 @@ If you're interested in the philosophy behind why projects like these are awesom
 
 ## Topical
 Everything's built around topic areas. If you're adding a new area to your forked dotfiles — say, "PERL" — you can simply add a `PERL` directory and put files in there. Afterthat, you can commit directly in to `root` directory of the project.
+
+## What's inside?
+A lot of stuff. Seriously, a lot of stuff. Check them out in the file browser above and see what components may mesh up with you. [Fork it](https://github.com/iamprabhat/dotfiles/fork), remove what you don't use, and build on what you do use.
