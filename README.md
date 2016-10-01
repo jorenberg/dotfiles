@@ -31,3 +31,5 @@ $ sh bootstrap.sh
 
 ### Thanks
 I have been in software development since mid-year of 2001. Whenever, I'm writing or doing coding stuff, I have to use many <b>.</b>files for project scafoldings or builds. It's really little boring and time consuming. So, I reallized to don't give weight for them every time - finally rolled up on easy way to do so - dotfiles. A decent amount of the code in these dotfiles stem or are inspired from my original project(s).
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png"/></a><br/>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
